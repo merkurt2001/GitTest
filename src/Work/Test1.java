@@ -5,5 +5,6 @@ public class Test1 {
         System.out.println("hello");
         System.out.println("end");
         System.out.println("else");
+        System.out.println("shared project");
     }
 }
