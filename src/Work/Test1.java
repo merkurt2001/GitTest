@@ -6,5 +6,6 @@ public class Test1 {
         System.out.println("end");
         System.out.println("else");
         System.out.println("shared project");
+        System.out.println("add from remote")
     }
 }
